@@ -1,0 +1,426 @@
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\NumericTable.NumericTable.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\NumericTable.OptionsNumericForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.GuiModeForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.Application.Interface.Panels.FullPanel.Form1.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.NumericPanelForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.EditNumericPanelForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.DriveParametersForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.SourceDiameterPumpForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CurrentWorkForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.ParameterCheckerForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.DrillingPanelForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.PanelsForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.SolutionPanelForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.SpoPanelForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.EditParameterForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.SelectParameterForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.TalblockForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.AsyCommandTunerForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.DBOptionsForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.ShowTimeFormDB.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.devManConnectorForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.IdealPairForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.ParametersTunerForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.SaveTechParametersForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.ShowTimeForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0105Form.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0106Form.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0200Form.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0202Form.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0203Form.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0205Form.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0211Form.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0212Form.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0213Form.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandTalblockForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.DockedRateForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.DockedVolumeForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0207Form.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.FlowInletForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.GasAlarmForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.GasSensorsForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.IdealRashodForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.PumpMovesForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.SpeedRotorForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.TechParametersForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.VolumeSolutionTanksForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.WeightColumnForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.WeightHookForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.GasAlarmForm50.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.TorqueRotorFormP101.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.TechTunerForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.DevManDataForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.TechDataForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.InsertNewWorkForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.CreateNewSessionForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\DeviceManager.ResultsForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.FullPanelForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.mainForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.Properties.Resources.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.WorksForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\WCF.DevManParametersForm.resources
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Developer\Documents\Проекты\SGT\bin\Debug\SGT.exe
+C:\Users\Developer\Documents\Проекты\SGT\bin\Debug\SGT.pdb
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.exe
+C:\Users\Developer\Documents\Проекты\SGT\obj\x86\Debug\SGT.pdb
+C:\Users\Alexander\Documents\Проекты\SGT\bin\Debug\SGT.exe
+C:\Users\Alexander\Documents\Проекты\SGT\bin\Debug\SGT.pdb
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.AboutBox.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\NumericTable.NumericTable.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\NumericTable.OptionsNumericForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.GuiModeForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.NumericPanelForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.EditNumericPanelForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.DriveParametersForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.DrillingShaftForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.DrillingShaftTubeForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.SourceDiameterPumpForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CurrentWorkForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.ParameterCheckerForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.DrillingPanelForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.PanelsForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.SolutionPanelForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.SpoPanelForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.EditParameterForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.SelectParameterForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.TalblockForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.AsyCommandTunerForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.DBOptionsForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.ShowTimeFormDB.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.devManConnectorForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.IdealPairForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.ParametersTunerForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.SaveTechParametersForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.ShowTimeForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0105Form.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0106Form.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0200Form.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0202Form.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0203Form.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0205Form.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0211Form.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0212Form.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0213Form.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandTalblockForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.DockedRateForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.DockedVolumeForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CommandP0207Form.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.FlowInletForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.GasAlarmForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.GasSensorsForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.IdealRashodForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.PumpMovesForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.SpeedRotorForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.TechParametersForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.VolumeSolutionTanksForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.WeightColumnForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.WeightHookForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.GasAlarmForm50.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.TorqueRotorFormP101.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.TechTunerForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.DevManDataForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.TechDataForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.InsertNewWorkForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.CreateNewSessionForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\DeviceManager.ResultsForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.FullPanelForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.mainForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.Properties.Resources.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.WorksForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\WCF.DevManParametersForm.resources
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.exe
+C:\Users\Alexander\Documents\Проекты\SGT\obj\x86\Debug\SGT.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\bin\Debug\SGT.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\bin\Debug\SGT.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\NumericTable.NumericTable.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\NumericTable.OptionsNumericForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.GuiModeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.NumericPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.EditNumericPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.DriveParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.DrillingShaftForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.DrillingShaftTubeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.SourceDiameterPumpForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CurrentWorkForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.DrillingPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.PanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.SolutionPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.SpoPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.SelectParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.TalblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.AsyCommandTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.IdealPairForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.ParametersTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.SaveTechParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CommandP0105Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CommandP0106Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CommandP0200Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CommandP0202Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CommandP0203Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CommandP0205Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CommandP0211Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CommandP0212Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CommandP0213Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CommandTalblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.DockedRateForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.DockedVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CommandP0207Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.FlowInletForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.GasAlarmForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.GasSensorsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.IdealRashodForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.PumpMovesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.SpeedRotorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.TechParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.VolumeSolutionTanksForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.WeightColumnForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.WeightHookForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.GasAlarmForm50.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.TorqueRotorFormP101.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.TechTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.DevManDataForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.TechDataForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.InsertNewWorkForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.CreateNewSessionForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.FullPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.mainForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\SGT.WorksForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SGT\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\bin\Debug\SGT.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\bin\Debug\SGT.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\NumericTable.NumericTable.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\NumericTable.OptionsNumericForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.GuiModeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.NumericPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.EditNumericPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.DriveParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.DrillingShaftForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.DrillingShaftTubeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.SourceDiameterPumpForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CurrentWorkForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.DrillingPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.PanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.SolutionPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.SpoPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.SelectParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.TalblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.AsyCommandTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.IdealPairForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.ParametersTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.SaveTechParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CommandP0105Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CommandP0106Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CommandP0200Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CommandP0202Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CommandP0203Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CommandP0205Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CommandP0211Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CommandP0212Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CommandP0213Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CommandTalblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.DockedRateForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.DockedVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CommandP0207Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.FlowInletForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.GasAlarmForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.GasSensorsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.IdealRashodForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.PumpMovesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.SpeedRotorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.TechParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.VolumeSolutionTanksForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.WeightColumnForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.WeightHookForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.GasAlarmForm50.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.TorqueRotorFormP101.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.TechTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.DevManDataForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.TechDataForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.InsertNewWorkForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.CreateNewSessionForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.FullPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.mainForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\SGT.WorksForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130328 1600\SGT\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\bin\Debug\SGT.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\bin\Debug\SGT.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\NumericTable.NumericTable.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\NumericTable.OptionsNumericForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.GuiModeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.NumericPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.EditNumericPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.DriveParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.DrillingShaftForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.DrillingShaftTubeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.SourceDiameterPumpForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CurrentWorkForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.DrillingPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.PanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.SolutionPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.SpoPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.SelectParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.TalblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.AsyCommandTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.IdealPairForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.ParametersTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.SaveTechParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CommandP0105Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CommandP0106Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CommandP0200Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CommandP0202Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CommandP0203Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CommandP0205Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CommandP0211Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CommandP0212Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CommandP0213Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CommandTalblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.DockedRateForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.DockedVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CommandP0207Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.FlowInletForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.GasAlarmForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.GasSensorsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.IdealRashodForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.PumpMovesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.SpeedRotorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.TechParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.VolumeSolutionTanksForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.WeightColumnForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.WeightHookForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.GasAlarmForm50.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.TorqueRotorFormP101.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.TechTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.DevManDataForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.TechDataForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.InsertNewWorkForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.CreateNewSessionForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.FullPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.mainForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\SGT.WorksForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130404 1647\SGT\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\bin\Debug\SGT.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\bin\Debug\SGT.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\NumericTable.NumericTable.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\NumericTable.OptionsNumericForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.GuiModeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.NumericPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.EditNumericPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.DriveParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.DrillingShaftForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.DrillingShaftTubeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.SourceDiameterPumpForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CurrentWorkForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.DrillingPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.PanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.SolutionPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.SpoPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.SelectParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.TalblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.AsyCommandTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.IdealPairForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.ParametersTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.SaveTechParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CommandP0105Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CommandP0106Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CommandP0200Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CommandP0202Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CommandP0203Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CommandP0205Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CommandP0211Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CommandP0212Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CommandP0213Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CommandTalblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.DockedRateForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.DockedVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CommandP0207Form.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.FlowInletForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.GasAlarmForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.GasSensorsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.IdealRashodForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.PumpMovesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.SpeedRotorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.TechParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.VolumeSolutionTanksForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.WeightColumnForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.WeightHookForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.GasAlarmForm50.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.TorqueRotorFormP101.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.TechTunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.DevManDataForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.TechDataForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.InsertNewWorkForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.CreateNewSessionForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.FullPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.mainForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\SGT.WorksForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130408 1300\SGT\obj\x86\Debug\WCF.DevManParametersForm.resources

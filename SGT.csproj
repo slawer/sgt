@@ -1,0 +1,842 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B848CC36-BBC6-4C87-AD0E-DB4B9AECCFF6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SGT</RootNamespace>
+    <AssemblyName>SGT</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>applications-engineering_1796.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Components\NumericTable\OptionsNumericForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Components\NumericTable\OptionsNumericForm.Designer.cs">
+      <DependentUpon>OptionsNumericForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\GuiMode\GuiModeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\GuiMode\GuiModeForm.Designer.cs">
+      <DependentUpon>GuiModeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\NumericPanel\NumericPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\NumericPanel\NumericPanelForm.Designer.cs">
+      <DependentUpon>NumericPanelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\NumericPanel\EditNumericPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\NumericPanel\EditNumericPanelForm.Designer.cs">
+      <DependentUpon>EditNumericPanelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Service\DriveParametersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Service\DriveParametersForm.Designer.cs">
+      <DependentUpon>DriveParametersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\DrillingShaftForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\DrillingShaftForm.Designer.cs">
+      <DependentUpon>DrillingShaftForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\DrillingShaftTubeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\DrillingShaftTubeForm.Designer.cs">
+      <DependentUpon>DrillingShaftTubeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\SourceDiameterPumpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\SourceDiameterPumpForm.Designer.cs">
+      <DependentUpon>SourceDiameterPumpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Works\CurrentWorkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Works\CurrentWorkForm.Designer.cs">
+      <DependentUpon>CurrentWorkForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Diagnostica\ParameterCheckerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Diagnostica\ParameterCheckerForm.designer.cs">
+      <DependentUpon>ParameterCheckerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Talblock\TalblockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Talblock\TalblockForm.Designer.cs">
+      <DependentUpon>TalblockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\AsyCommandTunerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\AsyCommandTunerForm.Designer.cs">
+      <DependentUpon>AsyCommandTunerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\DataBase\DBOptionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\DataBase\DBOptionsForm.designer.cs">
+      <DependentUpon>DBOptionsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\DataBase\ShowTimeFormDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\DataBase\ShowTimeFormDB.designer.cs">
+      <DependentUpon>ShowTimeFormDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\DevMan\devManConnectorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\DevMan\devManConnectorForm.designer.cs">
+      <DependentUpon>devManConnectorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\DevMan\ShowTimeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\DevMan\ShowTimeForm.designer.cs">
+      <DependentUpon>ShowTimeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandTalblockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandTalblockForm.Designer.cs">
+      <DependentUpon>CommandTalblockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Works\InsertNewWorkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Works\InsertNewWorkForm.Designer.cs">
+      <DependentUpon>InsertNewWorkForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Works\Session\CreateNewSessionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Works\Session\CreateNewSessionForm.Designer.cs">
+      <DependentUpon>CreateNewSessionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\SgtApplication.Talblock.cs" />
+    <Compile Include="Application\SgtApplication.Works.cs" />
+    <Compile Include="Application\Commutator\Commutator.Cfg.cs" />
+    <Compile Include="Application\Commutator\Commutator.cs" />
+    <Compile Include="Application\Commutator\Commutator.Parameters.cs" />
+    <Compile Include="Application\Commutator\Commutator.Tcp.cs" />
+    <Compile Include="Application\Commutator\Commutator.Wcf.cs" />
+    <Compile Include="Application\Components\Buffering\RSliceBuffer.cs" />
+    <Compile Include="Application\Components\Buffering\Slice.cs" />
+    <Compile Include="Application\Components\DataBase\DataBaseAdapter.cs" />
+    <Compile Include="Application\Components\DataBase\DataBaseParameter.cs" />
+    <Compile Include="Application\Components\DataBase\DataBaseParameters.cs" />
+    <Compile Include="Application\Components\DataBase\Manager\DataBase.cs" />
+    <Compile Include="Application\Components\DataBase\Manager\DataBaseManager.cs" />
+    <Compile Include="Application\Components\DataBase\Saver\DataBaseSaver.cs" />
+    <Compile Include="Application\Components\DataBase\Service\DateBaseProvider.cs" />
+    <Compile Include="Application\Components\Graphic\Graphic.cs" />
+    <Compile Include="Application\Components\Graphic\GraphicDrawter.cs" />
+    <Compile Include="Application\Components\Graphic\GraphicManager.cs" />
+    <Compile Include="Application\Components\Graphic\GraphicManager.Scrolling.cs" />
+    <Compile Include="Application\Components\Graphic\GraphicPanel\GraphicPanel.cs" />
+    <Compile Include="Application\Components\Graphic\GraphicPanel\GraphicPanel.Draw.cs" />
+    <Compile Include="Application\Components\Graphic\GraphicsSheet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Application\Components\Graphic\GraphicsSheet.designer.cs">
+      <DependentUpon>GraphicsSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Components\Graphic\IElement.cs" />
+    <Compile Include="Application\Components\Graphic\Panel\Panel.cs" />
+    <Compile Include="Application\Components\Graphic\ScalePanel\ScalePanel.cs" />
+    <Compile Include="Application\Components\Graphic\ScalePanel\ScalePanel.Draw.cs" />
+    <Compile Include="Application\Components\Graphic\TimePanel\TimePanel.cs" />
+    <Compile Include="Application\Components\Graphic\TimePanel\TimePanel.Draw.cs" />
+    <Compile Include="Application\Components\Log\Journal.cs" />
+    <Compile Include="Application\Components\NumericTable\NumericTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Application\Components\NumericTable\NumericTable.designer.cs">
+      <DependentUpon>NumericTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Components\NumericTable\Panel\Panel.cs" />
+    <Compile Include="Application\Components\NumericTable\Panel\Panel.Items.cs" />
+    <Compile Include="Application\Components\NumericTable\types\BoundingRectangle.cs" />
+    <Compile Include="Application\Components\NumericTable\types\GraphicDrawter.cs" />
+    <Compile Include="Application\Components\NumericTable\types\PanelItem.cs" />
+    <Compile Include="Application\Components\Tcp\devTcpManager.cs" />
+    <Compile Include="Application\Components\Tcp\TcpClient.cs" />
+    <Compile Include="Application\ErrorHandler.cs" />
+    <Compile Include="Application\Interface\Panels\DrillingPanel\DrillingPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\DrillingPanel\DrillingPanelForm.Designer.cs">
+      <DependentUpon>DrillingPanelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\EditPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\EditPanelForm.Designer.cs">
+      <DependentUpon>EditPanelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\InsertPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\InsertPanelForm.Designer.cs">
+      <DependentUpon>InsertPanelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\PanelsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\PanelsForm.Designer.cs">
+      <DependentUpon>PanelsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\SolutionPanel\SolutionPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\SolutionPanel\SolutionPanelForm.Designer.cs">
+      <DependentUpon>SolutionPanelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\SpoPanel\SpoPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\SpoPanel\SpoPanelForm.Designer.cs">
+      <DependentUpon>SpoPanelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Parameter\EditParameterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Parameter\EditParameterForm.designer.cs">
+      <DependentUpon>EditParameterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Parameter\SelectParameterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Parameter\SelectParameterForm.Designer.cs">
+      <DependentUpon>SelectParameterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\ParametersTunerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\ParametersTunerForm.Designer.cs">
+      <DependentUpon>ParametersTunerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\SaveTechParametersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\SaveTechParametersForm.Designer.cs">
+      <DependentUpon>SaveTechParametersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0105Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0105Form.Designer.cs">
+      <DependentUpon>CommandP0105Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0106Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0106Form.Designer.cs">
+      <DependentUpon>CommandP0106Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0200Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0200Form.Designer.cs">
+      <DependentUpon>CommandP0200Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0202Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0202Form.Designer.cs">
+      <DependentUpon>CommandP0202Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0203Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0203Form.Designer.cs">
+      <DependentUpon>CommandP0203Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0205Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0205Form.Designer.cs">
+      <DependentUpon>CommandP0205Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0211Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0211Form.Designer.cs">
+      <DependentUpon>CommandP0211Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0212Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0212Form.Designer.cs">
+      <DependentUpon>CommandP0212Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0213Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0213Form.Designer.cs">
+      <DependentUpon>CommandP0213Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\old\DockedRateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\old\DockedRateForm.Designer.cs">
+      <DependentUpon>DockedRateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\old\DockedVolumeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\old\DockedVolumeForm.Designer.cs">
+      <DependentUpon>DockedVolumeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0207Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0207Form.Designer.cs">
+      <DependentUpon>CommandP0207Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\FlowInletForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\FlowInletForm.Designer.cs">
+      <DependentUpon>FlowInletForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\GasAlarmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\GasAlarmForm.Designer.cs">
+      <DependentUpon>GasAlarmForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\GasSensorsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\GasSensorsForm.Designer.cs">
+      <DependentUpon>GasSensorsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\IdealPairForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\IdealPairForm.Designer.cs">
+      <DependentUpon>IdealPairForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\IdealRashodForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\IdealRashodForm.Designer.cs">
+      <DependentUpon>IdealRashodForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\PumpMovesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\PumpMovesForm.Designer.cs">
+      <DependentUpon>PumpMovesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\SpeedRotorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\SpeedRotorForm.Designer.cs">
+      <DependentUpon>SpeedRotorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechParametersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechParametersForm.Designer.cs">
+      <DependentUpon>TechParametersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\VolumeSolutionTanksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\VolumeSolutionTanksForm.Designer.cs">
+      <DependentUpon>VolumeSolutionTanksForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\old\WeightColumnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TechCommands\old\WeightColumnForm.Designer.cs">
+      <DependentUpon>WeightColumnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\WeightHookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\WeightHookForm.Designer.cs">
+      <DependentUpon>WeightHookForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\GasAlarm50Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\GasAlarm50Form.Designer.cs">
+      <DependentUpon>GasAlarm50Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TorqueRotorFormP101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechParameters\TorqueRotorFormP101.Designer.cs">
+      <DependentUpon>TorqueRotorFormP101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechTunerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Tuner\TechTunerForm.Designer.cs">
+      <DependentUpon>TechTunerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Viewer\DevManDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Viewer\DevManDataForm.Designer.cs">
+      <DependentUpon>DevManDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Interface\Viewer\TechDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Viewer\TechDataForm.Designer.cs">
+      <DependentUpon>TechDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Parameter\Parameter.cs" />
+    <Compile Include="Application\Parameter\Parameter.Saver.cs" />
+    <Compile Include="Application\Parameter\Transformation.cs" />
+    <Compile Include="Application\SgtApplication.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0106.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0101.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0102.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0103.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0104.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0105.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0107.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0108.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0109.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0110.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0112.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0113.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0114.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0116.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0117.cs" />
+    <Compile Include="Application\Tech\Parameters\Complex\P0118.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0200.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0201.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0202.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0203.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0204.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0205.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0206.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0207.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0208.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0209.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0210.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0211.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0212.cs" />
+    <Compile Include="Application\Tech\Parameters\Drilling\P0213.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0001.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0002.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0003.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0004.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0005.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0006.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0007.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0008.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0009.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0010.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0011.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0012.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0013.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0014.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0015.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0016.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0017.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P06_1.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P06_2.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P06_3.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P06_4.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P06_5.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P06_6.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P06_7.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P06_8.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P06_9.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P07_1.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P07_2.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P07_3.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P07_4.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P07_5.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P07_6.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P07_7.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P07_8.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P07_9.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P08_1.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P09_1.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P09_2.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P09_3.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P09_4.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P09_5.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P09_6.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P09_7.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P09_8.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P09_9.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P11_1.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P14_1.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P7_10.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P7_11.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P7_12.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P7_13.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P9_10.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P9_11.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P9_12.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P9_13.cs" />
+    <Compile Include="Application\Tech\Parameters\Simple\P0018.cs" />
+    <Compile Include="Application\Tech\Technology.Calculater.cs" />
+    <Compile Include="Application\Tech\Technology.Parameters.cs" />
+    <Compile Include="Application\Tech\Technology.cs" />
+    <Compile Include="Application\Tech\Technology.Initializer.cs" />
+    <Compile Include="Application\Tech\Technology.Saver.cs" />
+    <Compile Include="Application\Tech\TParameter\ITechParameter.cs" />
+    <Compile Include="Application\Tech\TParameter\TParameter.cs" />
+    <Compile Include="Application\Tech\TParameter\TParameter.Interface.cs" />
+    <Compile Include="Application\Transformation\Interfaces\AddTransformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Transformation\Interfaces\AddTransformationForm.designer.cs">
+      <DependentUpon>AddTransformationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Transformation\Interfaces\ResultsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Transformation\Interfaces\ResultsForm.designer.cs">
+      <DependentUpon>ResultsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Transformation\TransformationComponent\CalibrationGraphic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Application\Transformation\TransformationComponent\CalibrationGraphic.designer.cs">
+      <DependentUpon>CalibrationGraphic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Transformation\TransformationComponent\Types.cs" />
+    <Compile Include="Application\Viewer\DrillingPanel\DrillingPanel.cs" />
+    <Compile Include="Application\Interface\Panels\FullPanel\FullPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Panels\FullPanel\FullPanelForm.Designer.cs">
+      <DependentUpon>FullPanelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application\Viewer\FullPanel\FullPanel.cs" />
+    <Compile Include="Application\Viewer\FullPanel\GraphicPanel.cs" />
+    <Compile Include="Application\Viewer\NumericPanel\NumericPanel.cs" />
+    <Compile Include="Application\Viewer\SolutionPanel\SolutionPanel.cs" />
+    <Compile Include="Application\Viewer\SpoPanel\SpoPanel.cs" />
+    <Compile Include="Application\Viewer\VPanel.cs" />
+    <Compile Include="Application\Work\Session.cs" />
+    <Compile Include="Application\Work\Work.cs" />
+    <Compile Include="mainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainForm.Designer.cs">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Application\Interface\Works\WorksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application\Interface\Works\WorksForm.Designer.cs">
+      <DependentUpon>WorksForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WCF\DeviceManager\Formula.cs" />
+    <Compile Include="WCF\DevManParametersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WCF\DevManParametersForm.designer.cs">
+      <DependentUpon>DevManParametersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WCF\ICallBack.cs" />
+    <Compile Include="WCF\IService.cs" />
+    <Compile Include="WCF\Types\Handle.cs" />
+    <Compile Include="WCF\Types\PDescription.cs" />
+    <Compile Include="WCF\Types\Role.cs" />
+    <Compile Include="WCF\Types\User.cs" />
+    <Compile Include="WCF\Types\UserMode.cs" />
+    <Compile Include="WCF\WCF_Client\DevManClient.cs" />
+    <Compile Include="WCF\WCF_Client\DevManClientContext.cs" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Components\Graphic\GraphicsSheet.resx">
+      <DependentUpon>GraphicsSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Components\NumericTable\NumericTable.resx">
+      <DependentUpon>NumericTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Components\NumericTable\OptionsNumericForm.resx">
+      <DependentUpon>OptionsNumericForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\GuiMode\GuiModeForm.resx">
+      <DependentUpon>GuiModeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Panels\NumericPanel\NumericPanelForm.resx">
+      <DependentUpon>NumericPanelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Panels\NumericPanel\EditNumericPanelForm.resx">
+      <DependentUpon>EditNumericPanelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Service\DriveParametersForm.resx">
+      <DependentUpon>DriveParametersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\DrillingShaftForm.resx">
+      <DependentUpon>DrillingShaftForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\DrillingShaftTubeForm.resx">
+      <DependentUpon>DrillingShaftTubeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\SourceDiameterPumpForm.resx">
+      <DependentUpon>SourceDiameterPumpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Works\CurrentWorkForm.resx">
+      <DependentUpon>CurrentWorkForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Diagnostica\ParameterCheckerForm.resx">
+      <DependentUpon>ParameterCheckerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Panels\DrillingPanel\DrillingPanelForm.resx">
+      <DependentUpon>DrillingPanelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Panels\PanelsForm.resx">
+      <DependentUpon>PanelsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Panels\SolutionPanel\SolutionPanelForm.resx">
+      <DependentUpon>SolutionPanelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Panels\SpoPanel\SpoPanelForm.resx">
+      <DependentUpon>SpoPanelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Parameter\EditParameterForm.resx">
+      <DependentUpon>EditParameterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Parameter\SelectParameterForm.resx">
+      <DependentUpon>SelectParameterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Talblock\TalblockForm.resx">
+      <DependentUpon>TalblockForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\AsyCommandTunerForm.resx">
+      <DependentUpon>AsyCommandTunerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\DataBase\DBOptionsForm.resx">
+      <DependentUpon>DBOptionsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\DataBase\ShowTimeFormDB.resx">
+      <DependentUpon>ShowTimeFormDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\DevMan\devManConnectorForm.resx">
+      <DependentUpon>devManConnectorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\IdealPairForm.resx">
+      <DependentUpon>IdealPairForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\ParametersTunerForm.resx">
+      <DependentUpon>ParametersTunerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\SaveTechParametersForm.resx">
+      <DependentUpon>SaveTechParametersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\DevMan\ShowTimeForm.resx">
+      <DependentUpon>ShowTimeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0105Form.resx">
+      <DependentUpon>CommandP0105Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0106Form.resx">
+      <DependentUpon>CommandP0106Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0200Form.resx">
+      <DependentUpon>CommandP0200Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0202Form.resx">
+      <DependentUpon>CommandP0202Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0203Form.resx">
+      <DependentUpon>CommandP0203Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0205Form.resx">
+      <DependentUpon>CommandP0205Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0211Form.resx">
+      <DependentUpon>CommandP0211Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0212Form.resx">
+      <DependentUpon>CommandP0212Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0213Form.resx">
+      <DependentUpon>CommandP0213Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandTalblockForm.resx">
+      <DependentUpon>CommandTalblockForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\old\DockedRateForm.resx">
+      <DependentUpon>DockedRateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\old\DockedVolumeForm.resx">
+      <DependentUpon>DockedVolumeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\CommandP0207Form.resx">
+      <DependentUpon>CommandP0207Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\FlowInletForm.resx">
+      <DependentUpon>FlowInletForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\GasAlarmForm.resx">
+      <DependentUpon>GasAlarmForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\GasSensorsForm.resx">
+      <DependentUpon>GasSensorsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\IdealRashodForm.resx">
+      <DependentUpon>IdealRashodForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\PumpMovesForm.resx">
+      <DependentUpon>PumpMovesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\SpeedRotorForm.resx">
+      <DependentUpon>SpeedRotorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechParametersForm.resx">
+      <DependentUpon>TechParametersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\VolumeSolutionTanksForm.resx">
+      <DependentUpon>VolumeSolutionTanksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TechCommands\old\WeightColumnForm.resx">
+      <DependentUpon>WeightColumnForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\WeightHookForm.resx">
+      <DependentUpon>WeightHookForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\GasAlarm50Form.resx">
+      <DependentUpon>GasAlarm50Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechParameters\TorqueRotorFormP101.resx">
+      <DependentUpon>TorqueRotorFormP101.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Tuner\TechTunerForm.resx">
+      <DependentUpon>TechTunerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Viewer\DevManDataForm.resx">
+      <DependentUpon>DevManDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Viewer\TechDataForm.resx">
+      <DependentUpon>TechDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Works\InsertNewWorkForm.resx">
+      <DependentUpon>InsertNewWorkForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Works\Session\CreateNewSessionForm.resx">
+      <DependentUpon>CreateNewSessionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Transformation\Interfaces\AddTransformationForm.resx">
+      <DependentUpon>AddTransformationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Transformation\Interfaces\ResultsForm.resx">
+      <DependentUpon>ResultsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Transformation\TransformationComponent\CalibrationGraphic.resx">
+      <DependentUpon>CalibrationGraphic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application\Interface\Panels\FullPanel\FullPanelForm.resx">
+      <DependentUpon>FullPanelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainForm.resx">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Application\Interface\Works\WorksForm.resx">
+      <DependentUpon>WorksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WCF\DevManParametersForm.resx">
+      <DependentUpon>DevManParametersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Application\Interface\Reports\" />
+    <Folder Include="Application\Transformation\Formulas\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="applications-engineering_1796.ico" />
+    <Content Include="kmplot_3583.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

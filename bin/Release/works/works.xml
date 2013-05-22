@@ -1,0 +1,485 @@
+<works>
+  <Work>
+    <field>м1</field>
+    <bush>к1</bush>
+    <well>с1</well>
+    <customer>
+    </customer>
+    <performer>
+    </performer>
+    <comment>Тест 1</comment>
+    <startTime>26.06.2012 16:46:00</startTime>
+    <starting_depth>100</starting_depth>
+    <guid>34abd7e9-cfce-43da-98ea-4cca1fcb57ac</guid>
+    <actived>False</actived>
+    <Sessions>
+      <Session>
+        <number>1</number>
+        <description>Проверка Задания 1</description>
+        <actived>True</actived>
+        <data_base>db_2012_06_26_16_46_56</data_base>
+        <date_time>27.06.2012 17:34:17</date_time>
+      </Session>
+      <Session>
+        <number>2</number>
+        <description>
+        </description>
+        <actived>True</actived>
+        <data_base>db_2012_06_26_16_49_13</data_base>
+        <date_time>27.06.2012 17:34:17</date_time>
+      </Session>
+      <Session>
+        <number>2</number>
+        <description>
+        </description>
+        <actived>True</actived>
+        <data_base>db_2012_06_26_16_50_36</data_base>
+        <date_time>27.06.2012 17:34:17</date_time>
+      </Session>
+      <Session>
+        <number>3</number>
+        <description>
+        </description>
+        <actived>True</actived>
+        <data_base>db_2012_06_26_16_51_12</data_base>
+        <date_time>27.06.2012 17:34:17</date_time>
+      </Session>
+      <Session>
+        <number>3</number>
+        <description>
+        </description>
+        <actived>True</actived>
+        <data_base>db_2012_06_26_17_03_54</data_base>
+        <date_time>27.06.2012 17:34:17</date_time>
+      </Session>
+      <Session>
+        <number>4</number>
+        <description>
+        </description>
+        <actived>True</actived>
+        <data_base>db_2012_06_26_17_21_11</data_base>
+        <date_time>27.06.2012 17:34:17</date_time>
+      </Session>
+      <Session>
+        <number>5</number>
+        <description>
+        </description>
+        <actived>True</actived>
+        <data_base>db_2012_06_26_17_40_00</data_base>
+        <date_time>27.06.2012 17:34:17</date_time>
+      </Session>
+    </Sessions>
+  </Work>
+  <Work>
+    <field>м1</field>
+    <bush>к1</bush>
+    <well>с1</well>
+    <customer>
+    </customer>
+    <performer>
+    </performer>
+    <comment>Тест 2 тестирование занания, рейса, записи в БД</comment>
+    <startTime>27.06.2012 12:33:06</startTime>
+    <starting_depth>0</starting_depth>
+    <guid>1a905b94-d861-485e-8cba-2b69a8f68c02</guid>
+    <actived>False</actived>
+    <Sessions>
+      <Session>
+        <number>1</number>
+        <description>Рейс № 1</description>
+        <actived>False</actived>
+        <data_base>db_2012_06_27_12_36_55</data_base>
+        <date_time>27.06.2012 17:34:17</date_time>
+      </Session>
+      <Session>
+        <number>2</number>
+        <description>222</description>
+        <actived>False</actived>
+        <data_base>db_2012_06_27_12_44_25</data_base>
+        <date_time>27.06.2012 17:34:17</date_time>
+      </Session>
+      <Session>
+        <number>3</number>
+        <description>333</description>
+        <actived>False</actived>
+        <data_base>db_2012_06_27_13_27_42</data_base>
+        <date_time>27.06.2012 17:34:17</date_time>
+      </Session>
+      <Session>
+        <number>5</number>
+        <description>555</description>
+        <actived>False</actived>
+        <data_base>db_2012_06_27_14_28_01</data_base>
+        <date_time>27.06.2012 17:34:17</date_time>
+      </Session>
+      <Session>
+        <number>6</number>
+        <description>Проверка БД</description>
+        <actived>True</actived>
+        <data_base>db_2012_06_28_10_09_50</data_base>
+        <date_time>28.06.2012 10:09:50</date_time>
+      </Session>
+    </Sessions>
+  </Work>
+  <Work>
+    <field>м1</field>
+    <bush>к1</bush>
+    <well>с2</well>
+    <customer>
+    </customer>
+    <performer>
+    </performer>
+    <comment>Готовим данные для рапорта</comment>
+    <startTime>28.06.2012 13:38:38</startTime>
+    <starting_depth>0</starting_depth>
+    <guid>555f3abc-9ba2-4040-9e47-1e11396437fc</guid>
+    <actived>True</actived>
+    <Sessions>
+      <Session>
+        <number>1</number>
+        <description>28.06.2012 Проверка</description>
+        <actived>False</actived>
+        <data_base>db_2012_06_28_13_39_58</data_base>
+        <date_time>28.06.2012 13:39:58</date_time>
+      </Session>
+      <Session>
+        <number>2</number>
+        <description>Проверка доступа к БД по списку</description>
+        <actived>False</actived>
+        <data_base>db_2012_06_28_17_55_15</data_base>
+        <date_time>28.06.2012 17:55:15</date_time>
+      </Session>
+      <Session>
+        <number>3</number>
+        <description>Продолжаем проверку</description>
+        <actived>False</actived>
+        <data_base>db_2012_06_29_15_08_05</data_base>
+        <date_time>29.06.2012 15:08:05</date_time>
+      </Session>
+      <Session>
+        <number>4</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_06_29_16_51_04</data_base>
+        <date_time>29.06.2012 16:51:04</date_time>
+      </Session>
+      <Session>
+        <number>5</number>
+        <description>555</description>
+        <actived>False</actived>
+        <data_base>db_2012_06_30_11_15_25</data_base>
+        <date_time>30.06.2012 11:15:25</date_time>
+      </Session>
+      <Session>
+        <number>6</number>
+        <description>Gde ves?</description>
+        <actived>False</actived>
+        <data_base>db_2012_06_30_15_45_27</data_base>
+        <date_time>30.06.2012 15:45:27</date_time>
+      </Session>
+      <Session>
+        <number>7</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_06_30_15_52_33</data_base>
+        <date_time>30.06.2012 15:52:33</date_time>
+      </Session>
+      <Session>
+        <number>8</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_06_30_15_58_35</data_base>
+        <date_time>30.06.2012 15:58:35</date_time>
+      </Session>
+      <Session>
+        <number>9</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_06_30_16_02_32</data_base>
+        <date_time>30.06.2012 16:02:32</date_time>
+      </Session>
+      <Session>
+        <number>10</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_06_30_16_03_41</data_base>
+        <date_time>30.06.2012 16:03:41</date_time>
+      </Session>
+      <Session>
+        <number>11</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_06_30_16_04_29</data_base>
+        <date_time>30.06.2012 16:04:29</date_time>
+      </Session>
+      <Session>
+        <number>12</number>
+        <description>Бурение 20 метров для тестирования отчёта</description>
+        <actived>False</actived>
+        <data_base>db_2012_07_06_13_23_52</data_base>
+        <date_time>06.07.2012 13:23:52</date_time>
+      </Session>
+      <Session>
+        <number>13</number>
+        <description>Проверяем создание таблиц</description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_13_40_50</data_base>
+        <date_time>10.07.2012 13:40:50</date_time>
+      </Session>
+      <Session>
+        <number>14</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_14_20_46</data_base>
+        <date_time>10.07.2012 14:20:46</date_time>
+      </Session>
+      <Session>
+        <number>15</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_01_20</data_base>
+        <date_time>10.07.2012 15:01:20</date_time>
+      </Session>
+      <Session>
+        <number>16</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_01_49</data_base>
+        <date_time>10.07.2012 15:01:49</date_time>
+      </Session>
+      <Session>
+        <number>17</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_03_16</data_base>
+        <date_time>10.07.2012 15:03:16</date_time>
+      </Session>
+      <Session>
+        <number>18</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_03_39</data_base>
+        <date_time>10.07.2012 15:03:39</date_time>
+      </Session>
+      <Session>
+        <number>19</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_04_02</data_base>
+        <date_time>10.07.2012 15:04:02</date_time>
+      </Session>
+      <Session>
+        <number>20</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_05_49</data_base>
+        <date_time>10.07.2012 15:05:49</date_time>
+      </Session>
+      <Session>
+        <number>21</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_06_28</data_base>
+        <date_time>10.07.2012 15:06:28</date_time>
+      </Session>
+      <Session>
+        <number>22</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_17_11</data_base>
+        <date_time>10.07.2012 15:17:11</date_time>
+      </Session>
+      <Session>
+        <number>23</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_43_57</data_base>
+        <date_time>10.07.2012 15:43:57</date_time>
+      </Session>
+      <Session>
+        <number>24</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_44_17</data_base>
+        <date_time>10.07.2012 15:44:17</date_time>
+      </Session>
+      <Session>
+        <number>25</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_44_40</data_base>
+        <date_time>10.07.2012 15:44:40</date_time>
+      </Session>
+      <Session>
+        <number>26</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_15_57_41</data_base>
+        <date_time>10.07.2012 15:57:41</date_time>
+      </Session>
+      <Session>
+        <number>27</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_16_04_30</data_base>
+        <date_time>10.07.2012 16:04:30</date_time>
+      </Session>
+      <Session>
+        <number>28</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_16_12_54</data_base>
+        <date_time>10.07.2012 16:12:54</date_time>
+      </Session>
+      <Session>
+        <number>29</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_16_13_59</data_base>
+        <date_time>10.07.2012 16:13:59</date_time>
+      </Session>
+      <Session>
+        <number>30</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_16_24_42</data_base>
+        <date_time>10.07.2012 16:24:42</date_time>
+      </Session>
+      <Session>
+        <number>31</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_16_24_47</data_base>
+        <date_time>10.07.2012 16:24:47</date_time>
+      </Session>
+      <Session>
+        <number>32</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_16_26_25</data_base>
+        <date_time>10.07.2012 16:26:25</date_time>
+      </Session>
+      <Session>
+        <number>33</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_16_34_45</data_base>
+        <date_time>10.07.2012 16:34:45</date_time>
+      </Session>
+      <Session>
+        <number>34</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_16_43_49</data_base>
+        <date_time>10.07.2012 16:43:49</date_time>
+      </Session>
+      <Session>
+        <number>35</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_16_52_56</data_base>
+        <date_time>10.07.2012 16:52:56</date_time>
+      </Session>
+      <Session>
+        <number>36</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_17_45_50</data_base>
+        <date_time>10.07.2012 17:45:50</date_time>
+      </Session>
+      <Session>
+        <number>37</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_10_18_13_01</data_base>
+        <date_time>10.07.2012 18:13:01</date_time>
+      </Session>
+      <Session>
+        <number>38</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_11_10_53_54</data_base>
+        <date_time>11.07.2012 10:53:54</date_time>
+      </Session>
+      <Session>
+        <number>39</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_11_11_13_26</data_base>
+        <date_time>11.07.2012 11:13:26</date_time>
+      </Session>
+      <Session>
+        <number>40</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_11_11_13_49</data_base>
+        <date_time>11.07.2012 11:13:49</date_time>
+      </Session>
+      <Session>
+        <number>41</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_11_11_35_54</data_base>
+        <date_time>11.07.2012 11:35:54</date_time>
+      </Session>
+      <Session>
+        <number>42</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_11_11_36_42</data_base>
+        <date_time>11.07.2012 11:36:42</date_time>
+      </Session>
+      <Session>
+        <number>43</number>
+        <description>
+        </description>
+        <actived>False</actived>
+        <data_base>db_2012_07_11_11_58_55</data_base>
+        <date_time>11.07.2012 11:58:55</date_time>
+      </Session>
+      <Session>
+        <number>44</number>
+        <description>
+        </description>
+        <actived>True</actived>
+        <data_base>db_2012_07_11_12_04_57</data_base>
+        <date_time>11.07.2012 12:04:57</date_time>
+      </Session>
+    </Sessions>
+  </Work>
+</works>

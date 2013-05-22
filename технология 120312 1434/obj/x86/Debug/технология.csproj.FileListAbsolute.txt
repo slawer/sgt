@@ -1,0 +1,20 @@
+C:\Users\Developer\Desktop\технология\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\технология\obj\x86\Debug\Technology.Form1.resources
+C:\Users\Developer\Desktop\технология\obj\x86\Debug\Technology.Properties.Resources.resources
+C:\Users\Developer\Desktop\технология\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Developer\Desktop\технология\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Developer\Desktop\технология\bin\Debug\Technology.exe
+C:\Users\Developer\Desktop\технология\bin\Debug\Technology.pdb
+C:\Users\Developer\Desktop\технология\obj\x86\Debug\Technology.exe
+C:\Users\Developer\Desktop\технология\obj\x86\Debug\Technology.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\ASK\SGT\технология 120312 1434\obj\x86\Debug\Technology.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\ASK\SGT\технология 120312 1434\obj\x86\Debug\Technology.pdb
+C:\Users\Developer\Documents\Проекты\SGT\технология 120312 1434\bin\Debug\Technology.exe
+C:\Users\Developer\Documents\Проекты\SGT\технология 120312 1434\bin\Debug\Technology.pdb
+C:\Users\Developer\Documents\Проекты\SGT\технология 120312 1434\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Проекты\SGT\технология 120312 1434\obj\x86\Debug\Technology.Form1.resources
+C:\Users\Developer\Documents\Проекты\SGT\технология 120312 1434\obj\x86\Debug\Technology.Properties.Resources.resources
+C:\Users\Developer\Documents\Проекты\SGT\технология 120312 1434\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Developer\Documents\Проекты\SGT\технология 120312 1434\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Developer\Documents\Проекты\SGT\технология 120312 1434\obj\x86\Debug\Technology.exe
+C:\Users\Developer\Documents\Проекты\SGT\технология 120312 1434\obj\x86\Debug\Technology.pdb
